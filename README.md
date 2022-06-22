@@ -1,8 +1,8 @@
 # Listenary
 CENG 423 Project
-Ahmet Alper Dönmez - 17050111025
-Ceyda Alper - 18050111013
-Enver Köroğlu - 17050111003
+- Ahmet Alper Dönmez - 17050111025
+- Ceyda Alper - 18050111013
+- Enver Köroğlu - 17050111003
 
 ## Requirements
 We are going to create an API using ASP.Net Entity Framework that will handle our DB and interactions with it.
